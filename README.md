@@ -1,4 +1,4 @@
-[![MasterHead](![image](Capture.PNG)](https://harshitaasharma.github.io)
+[![image](Capture.PNG)](https://harshitaasharma.github.io)
 <h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
 <h3 align="center">Programming my Brain well.👩‍💻</h3>
 
