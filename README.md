@@ -16,7 +16,7 @@
 <a href="https://twitter.com/harshit91490120" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="harshit91490120" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshita-sharma-2496b01b6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/harshita-sharma-2496b01b6" height="30" width="40" /></a>
 <a href="https://codesandbox.com/harshita sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="harshita sharma" height="30" width="40" /></a>
-<a href="https://fb.com/harshita sharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshita sharma" height="30" width="40" /></a>
+<a href="https://www.facebook.com/harshita.sharma.980967/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="harshita sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/mostlyharshita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mostlyharshita" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/mostlyharshita" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mostlyharshita" height="30" width="40" /></a>
 </p>
