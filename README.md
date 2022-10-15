@@ -1,4 +1,3 @@
-//[![image](Capture.PNG)](https://harshitaasharma.github.io)
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 <h1 align="center">Hi 👋, I'm Harshita Sharma</h1>
 <h3 align="center">Programming my Brain well.👩‍💻</h3>
@@ -7,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harshitaasharma" alt="harshitaasharma" /></a> </p>
 [![image](Capture.PNG)](https://harshitaasharma.github.io)
-//<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
 
 - 🌱 I’m currently learning **Java**
 
